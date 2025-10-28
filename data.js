@@ -6,10 +6,10 @@ export default  [
     file: "loverollercoaster.mp3",
   },  
   {
-    title:"2 -",
+    title:"2 - Other Side",
     artist: "Red Hot Chili Peppers ",
     cover: "1.jpeg",
-    file: "2.mp3",
+    file: "otherside.mp3",
   },  
   {
     title:"3 -",
