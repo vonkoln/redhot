@@ -62,49 +62,49 @@ export default  [
   {
     title:"11 - Scar Tissue",
     artist: "Red Hot Chili Peppers ",
-    cover: "1.jpg",
+    cover: "1.jpeg",
     file: "11.mp3",
   },  
   {
     title:"12 - Snow ((Hey Oh))",
     artist: "Red Hot Chili Peppers ",
-    cover: "1.jpg",
+    cover: "1.jpeg",
     file: "12.mp3",
   },  
   {
     title:"13 - Under The Bridge",
     artist: "Red Hot Chili Peppers ",
-    cover: "1.jpg",
+    cover: "1.jpeg",
     file: "13.mp3",
   },  
   {
     title:"14 - Can't Stop",
     artist: "Red Hot Chili Peppers ",
-    cover: "1.jpg",
+    cover: "1.jpeg",
     file: "14.mp3",
   },  
   {
     title:"15 - All Around The World",
     artist: "Red Hot Chili Peppers ",
-    cover: "1.jpg",
+    cover: "1.jpeg",
     file: "15.mp3",
   },  
   {
     title:"16 - Aeroplane",
     artist: "Red Hot Chili Peppers ",
-    cover: "1.jpg",
+    cover: "1.jpeg",
     file: "16.mp3",
   },  
   {
     title:"17 - Blood Sugar Sex Magic",
     artist: "Red Hot Chili Peppers ",
-    cover: "1.jpg",
+    cover: "1.jpeg",
     file: "17.mp3",
   },  
   {
     title:"18 - By The Way - The Zepher Song",
     artist: "Red Hot Chili Peppers ",
-    cover: "1.jpg",
+    cover: "1.jpeg",
     file: "18.mp3",
   }
  ];
